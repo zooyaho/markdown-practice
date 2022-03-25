@@ -59,9 +59,9 @@ _이텔릭_
 
 # 이미지(Images)
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![HEROPY](https://cdn.pixabay.com/photo/2018/05/11/08/11/pet-3389729_960_720.jpg)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![HEROPY](https://cdn.pixabay.com/photo/2018/05/11/08/11/pet-3389729_960_720.jpg)](https://heropy.blog/)
 
 # 인용문(BlochQuote)
 
@@ -139,7 +139,7 @@ MarkDown은 브라우저에서 출력하기 때문에 표준 HTML로 변환됨.
 
 <a href="https://naver.com" title="NAVER로 이동~!" target="_blank">NAVER</a>  
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY">
+<img width="70" src="https://cdn.pixabay.com/photo/2022/03/06/05/30/clouds-7050884_960_720.jpg"  alt="HEROPY">
 
 # 수평선(Horizontal Rule)
 
